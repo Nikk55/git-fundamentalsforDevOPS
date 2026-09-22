@@ -2,7 +2,6 @@ This is my first Line
 This is my Second Line
 This is my Third Line
 This is my Fourth Line
-<<<<<<< HEAD
 This is my Fifth Line
-Fifth Line it is
-
+Sixth Line it is
+Seventh Line it is
